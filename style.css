@@ -15,7 +15,7 @@
     height: 50px;
     width:100px;
 }
-.logo{
+.amazonl{
     background-image: url("amazonLogo.jpeg");
     background-size: cover;
     height: 50px;
@@ -286,7 +286,7 @@ a:hover{
     justify-content: center;
     align-items: center;
 }
-.logo1{
+.panel-3l{
     background-image: url("amazonLogp2.png");
     background-size: cover;
 
